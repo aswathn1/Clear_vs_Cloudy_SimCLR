@@ -10,7 +10,7 @@ Enables applying the trained SimCLRv2 encoder for a classification task by train
 
 Enables training a supervised ResNet model for a binary classification task.
 
-## Installation
+## Installing dependencies
 
 ```
 $ conda env create --name simclr --file env.yml
